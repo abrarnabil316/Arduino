@@ -1,5 +1,5 @@
 // C++ code
-//if else statement
+//led blinking
 void setup()
 {
   pinMode(8,OUTPUT);
